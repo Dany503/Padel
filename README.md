@@ -2,9 +2,9 @@
 Dataset creado para la clasificación de golpes de pádel utilizando algoritmos de Inteligencia Artificial/Dataset created for padel stroke classification using Artificial Intelligence algorithms.
 Autores/Authors: Guillermo Cartes, Claudia Martínez, Evelia Franco, Alejandro Tapia y Daniel Gutiérrez 
 
-Datasetpadel: dataset reducido con 2000 golpes (aprox), no incluye jugadores zurdos.
+DatasetPadel: dataset reducido con 2000 golpes (aprox), no incluye jugadores zurdos.
 Dataset12: dataset ampliado con 4000 golpes (aprox), incluye juadores zurdos. 
-
+DatasetFreq: dataset12 convertido a frecuencia mediante FFT, solo magnitud, no incluye fase. 
 Más info: 
 - Comparación de algoritmos de aprendizaje automático para clasificación de golpes de pádel
 https://idus.us.es/handle/11441/127922
